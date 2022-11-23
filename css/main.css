@@ -29,7 +29,6 @@ body {
   background: #fff;
 }
 
-
 .bg-para-50 {
   background: #dedeec;
 }
@@ -611,16 +610,13 @@ body {
     flex-direction: column;
   }
 
-  .menu_navigation_objet {
-    margin-bottom: 40px;
-  }
-
   .menu_navigation_objet a {
     font-size: 32px;
     font-weight: 600;
     line-height: 44px;
     color: #fff;
     transition: color 1s;
+    margin-bottom: 40px;
   }
 
   .menu_navigation_objet a:hover {
